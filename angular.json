@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng-spring-blog-frontend"
+  "defaultProject": "ng-spring-blog-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
